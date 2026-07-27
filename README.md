@@ -6,7 +6,7 @@ He desplegado una arquitectura en n8n conectada a Google Hotels (vía SerpAPI), 
 
 ✅ Formulario nativo multicanal: El usuario introduce destino, fechas y su presupuesto. Un código JS interno valida al instante las fechas y calcula las pernoctaciones.
 ![Formulario Página 1](FORMULARI.JPG)
-![Formulario Página 2](PAGINA_2.JPG)
+![Formulario Página 2](PAG2.JPG)
 
 ✅ Puntuación dinámica (0 al 10): Adaptada 100% a los criterios del usuario (ubicación, precio, wifi, etc.), ponderando matemáticamente las variables en el prompt de la IA.
 ✅ "Coeficiente de estafa": Calculado algorítmicamente si la oferta tiene precios sospechosamente bajos, valoraciones de 4.8 con apenas 15 reseñas o ausencia total de amenidades.
