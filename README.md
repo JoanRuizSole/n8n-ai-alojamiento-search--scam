@@ -1,8 +1,5 @@
 # 🏨 AI-Powered Accommodation Finder & Scam Detector
 
-![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google_Gemini-2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Backend_Logic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 > **He construido un buscador de alojamientos con IA que analiza, puntúa y detecta posibles estafas en segundos.** 🏨🤖
 
